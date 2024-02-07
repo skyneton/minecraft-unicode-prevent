@@ -1,0 +1,4 @@
+block_message: '§c%message% over than %max unicode%. Please use less unicode.'
+
+#max unicode length(without ascii)
+max_unicode_length: 22
